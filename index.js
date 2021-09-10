@@ -13,3 +13,4 @@ function main() {
   console.log(idk);
   root.innerText = `Number of Letters: ${idk.length}`;
 }
+
